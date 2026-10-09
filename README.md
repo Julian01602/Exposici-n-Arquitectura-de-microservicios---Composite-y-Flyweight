@@ -10,6 +10,8 @@ Repositorio oficial para la exposición técnica sobre la integración de **Arqu
 - Martin Cruz
 - Michael Zabala
 
+
+
 ---
 
 ## 📋 Tabla de Contenidos
