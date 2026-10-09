@@ -9,7 +9,6 @@ Repositorio oficial para la exposición técnica sobre la integración de **Arqu
 - Julian Gonzalez 
 - Martin Cruz
 - Michael Zabala
-
 ---
 
 ## 📋 Tabla de Contenidos
